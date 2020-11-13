@@ -1,0 +1,11 @@
+{
+    "name": "litedata",
+    "version": "1.0.0",
+    "description": "Albanian Skills 6.",
+    "main": "solver.js",
+    "scripts": {
+        "start": "start"
+    },
+    "author": "",
+    "license": "ISC"
+}
